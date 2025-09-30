@@ -16,7 +16,7 @@ Objectives
 - Perform preprocessing, including handling missing values and encoding categorical data
 - Analyze variable distributions and correlations with claims
 - Engineer new features to improve prediction accuracy
-- Train models such as Logistic Regression, Random Forest, and Gradient Boosting
+- Train models such as Random Forest
 - Evaluate results with accuracy, precision, recall, and F1-score
 
 Project Structure
